@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Reci.py'
+project = 'Lumache'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
